@@ -280,4 +280,4 @@ def trick_function():
 
 
 if __name__ == '__main__':
-    tuttavad()
+    astendamine()
