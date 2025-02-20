@@ -1,0 +1,6 @@
+('Elina', 'Elli')
+('Joosep', 'Juurikas')
+('Jaana', 'Järv')
+('Õnne', 'Kolmteist')
+('Armas', 'Noole')
+('Tiit', 'Sukk')
